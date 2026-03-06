@@ -51,7 +51,7 @@ export default function Home() {
             <h1 id="PageTitle">
                 Home
             </h1>
-            <img src="../../../public/AnjaliAminHeadshot.jpeg" alt="Anjali Amin Headshot"/>
+            <img src="../../public/AnjaliAminHeadshot.jpeg" alt="Anjali Amin Headshot"/>
             <h3 id="mySummary">
                 My name is Anjali Amin. I am a senior at Boston University studying
                 computer science, economics, and business. I plan to pursue a career in finance,
