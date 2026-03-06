@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Headshot from "../../assets/AnjaliAminHeadshot.png";
 
 const StyledMain=styled.main`
     height: 100vh;
@@ -51,7 +52,7 @@ export default function Home() {
             <h1 id="PageTitle">
                 Home
             </h1>
-            <img src="../../../public/AnjaliAminHeadshot.png" alt="Anjali Amin Headshot"/>
+            <img src={Headshot} alt="Anjali Amin Headshot"/>
             <h3 id="mySummary">
                 My name is Anjali Amin. I am a senior at Boston University studying
                 computer science, economics, and business. I plan to pursue a career in finance,
