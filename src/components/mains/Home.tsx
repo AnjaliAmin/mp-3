@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Headshot from "../../assets/AnjaliAminHeadshot.png";
+import Headshot from "../../src/assets/AnjaliAminHeadshot.png";
 
 const StyledMain=styled.main`
     height: 100vh;
